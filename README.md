@@ -1,1 +1,1 @@
-# machine-learning
+# customer segmentation using kmeans clustering
